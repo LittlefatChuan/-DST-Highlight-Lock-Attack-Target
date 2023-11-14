@@ -6,7 +6,7 @@ See it in Workshop: [Highlight/Lock Attack Target](https://steamcommunity.com/sh
 ## Auto highlight the current attack target in Red
 everytime you launch an attack via hold F or click with mouse, the guy you're going to attack will be highlighted in Red
 
-## YELLOW : Ctrl(Force_Attack)+LeftClick the entity to lock it and highlight in Yellow
+## Ctrl(Force_Attack)+LeftClick the entity to lock it and highlight in Yellow
 when you attack via holding F , you will priorize the locked one if in range 
 
 ## Shift(Force_Trade)+LeftClick the entity to exclude it as the attack target and highlight in Green
